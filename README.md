@@ -1,2 +1,2 @@
 # prepcurse
-intento1 modulo 2
+intento mil git compuntador
